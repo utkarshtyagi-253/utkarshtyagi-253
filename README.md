@@ -99,7 +99,7 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+
 
 
 
