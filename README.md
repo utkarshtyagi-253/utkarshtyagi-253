@@ -94,8 +94,8 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=utkarshtyagi-253&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=ffffff&count_private=true&show=prs_merged,prs_merged_percentage" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshtyagi-253&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&text_color=ffffff&langs_count=8" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=utkarshtyagi-253&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=ffffff&count_private=true&show=prs_merged,prs_merged_percentage" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=utkarshtyagi-253&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&text_color=ffffff&langs_count=8" />
 
 </div>
 
