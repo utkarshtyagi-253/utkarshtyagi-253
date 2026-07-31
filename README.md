@@ -46,12 +46,18 @@ me.say_hi()
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Languages & CS Fundamentals
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-6EE7F7?style=for-the-badge&logoColor=0D1117)
+![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-FFD700?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-4CAF50?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-FF9800?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-9C27B0?style=for-the-badge)
 
 ### 🌐 Web & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -89,7 +95,7 @@ me.say_hi()
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=utkarshtyagi-253&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshtyagi-253&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7F7&fire=FF6B6B&currStreakLabel=6EE7F7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=utkarshtyagi-253&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=ffffff&show=prs_merged,prs_merged_percentage&hide=stars,commits,issues" />
 
 <br/>
 
@@ -118,29 +124,6 @@ me.say_hi()
 | [⚡ **Electricity Price Predictor**](https://github.com/utkarshtyagi-253/Electricity-price-predictor) | ML model predicting electricity production cost; deployed live on Streamlit | Python · XGBoost · Streamlit |
 | [🏛️ **Lecture Hall Booking System**](https://github.com/utkarshtyagi-253/Lecture-Hall-booking-system) | Admin & user portal for managing lecture hall event schedules | HTML · CSS · JS |
 
-</div>
-
----
-
-## 🎯 Core CS Fundamentals
-
-<div align="center">
-
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-6EE7F7?style=flat-square&logoColor=0D1117)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-FF6B6B?style=flat-square)
-![DBMS](https://img.shields.io/badge/DBMS-FFD700?style=flat-square)
-![CN](https://img.shields.io/badge/Computer_Networks-4CAF50?style=flat-square)
-![OS](https://img.shields.io/badge/Operating_Systems-FF9800?style=flat-square)
-![IoT](https://img.shields.io/badge/IoT-9C27B0?style=flat-square)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshtyagi-253&bg_color=0D1117&color=6EE7F7&line=6EE7F7&point=FF6B6B&area=true&hide_border=true" />
 </div>
 
 ---
