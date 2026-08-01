@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Animated Banner -->
@@ -144,7 +145,7 @@ me.say_hi()
 
 <br/>
 
-**"First, solve the problem. Then, write the code."** — *John Johnson*
+**"I am smart enough to know I am dumb."** — *richard feynman*
 
 <br/>
 
